@@ -1,0 +1,200 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.0.4",
+	"appid": "wx551dfda3c8dcdb44",
+	"projectname": "%E5%B0%8F%E5%8C%BA%E4%B9%90",
+	"svr": "",
+	"client": "",
+	"qcloudRoot": "",
+	"miniprogramRoot": "./dist/",
+	"pluginRoot": "",
+	"scripts": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 25,
+			"list": [
+				{
+					"id": 0,
+					"name": "选择小区",
+					"pathName": "pages/address/chooseArea/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "test",
+					"pathName": "pages/address/list/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "登录",
+					"pathName": "pages/auth/login/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "订单",
+					"pathName": "pages/order/detail/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "小区长管理",
+					"pathName": "pages/house/houseManage/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "主页",
+					"pathName": "pages/index/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "商品销量中心",
+					"pathName": "pages/house/salesCenter/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "经营数据中心",
+					"pathName": "pages/house/businessCenter/main",
+					"query": ""
+				},
+				{
+					"id": 8,
+					"name": "交易记录",
+					"pathName": "pages/house/tradeRecord/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "售后",
+					"pathName": "pages/house/afterSales/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "提交订单",
+					"pathName": "pages/order/submit/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "交易详情页",
+					"pathName": "pages/house/tradeDetail/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "售后详情",
+					"pathName": "pages/house/afterDetail/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "个人订单中心",
+					"pathName": "pages/order/my/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "个人订单详情",
+					"pathName": "pages/order/detail/main",
+					"query": ""
+				},
+				{
+					"id": 15,
+					"name": "选择小区",
+					"pathName": "pages/address/communities/main",
+					"query": ""
+				},
+				{
+					"id": 16,
+					"name": "首页",
+					"pathName": "pages/index/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "编辑地址",
+					"pathName": "pages/address/edit/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "提交订单",
+					"pathName": "pages/order/submit/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "售后应用",
+					"pathName": "pages/order/refund/apply/main",
+					"query": ""
+				},
+				{
+					"id": 20,
+					"name": "退款编辑",
+					"pathName": "pages/order/refund/apply/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "退款申请",
+					"pathName": "pages/order/refund/apply/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "我的",
+					"pathName": "pages/mine/center/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "订单详情",
+					"pathName": "pages/order/detail/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "退款详情",
+					"pathName": "pages/order/refund/detail/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "首页登录",
+					"pathName": "pages/auth/login/main"
+				}
+			]
+		}
+	}
+}
